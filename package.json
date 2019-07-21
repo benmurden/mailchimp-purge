@@ -1,0 +1,25 @@
+{
+  "name": "mailchimp-purge",
+  "version": "1.0.0",
+  "description": "Automatically delete unsubscribed contacts from Mailchimp - and reduce your costs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmurden/mailchimp-purge.git"
+  },
+  "keywords": [
+    "mailchimp",
+    "delete",
+    "unsubscribed",
+    "contacts"
+  ],
+  "author": "Benjamin Murden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benmurden/mailchimp-purge/issues"
+  },
+  "homepage": "https://github.com/benmurden/mailchimp-purge#readme"
+}
