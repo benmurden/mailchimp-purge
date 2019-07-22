@@ -4,7 +4,7 @@
   "description": "Automatically delete unsubscribed contacts from Mailchimp - and reduce your costs.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/benmurden/mailchimp-purge/issues"
   },
-  "homepage": "https://github.com/benmurden/mailchimp-purge#readme"
+  "homepage": "https://github.com/benmurden/mailchimp-purge#readme",
+  "dependencies": {
+    "cli-progress": "^2.1.1",
+    "mailchimp-api-v3": "^1.13.1",
+    "tiny-async-pool": "^1.0.4"
+  }
 }
