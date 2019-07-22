@@ -1,7 +1,7 @@
 {
   "name": "mailchimp-purge",
   "version": "1.0.0",
-  "description": "Automatically delete unsubscribed contacts from Mailchimp - and reduce your costs.",
+  "description": "Automatically archive unsubscribed contacts from Mailchimp - and reduce your costs.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "mailchimp",
-    "delete",
+    "archive",
     "unsubscribed",
     "contacts"
   ],
