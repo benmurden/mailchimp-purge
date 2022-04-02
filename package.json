@@ -24,7 +24,7 @@
   "homepage": "https://github.com/benmurden/mailchimp-purge#readme",
   "dependencies": {
     "cli-progress": "^2.1.1",
-    "mailchimp-api-v3": "^1.13.1",
+    "mailchimp-api-v3": "^1.15.0",
     "tiny-async-pool": "^1.0.4"
   }
 }
