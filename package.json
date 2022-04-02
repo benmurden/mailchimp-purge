@@ -1,6 +1,6 @@
 {
   "name": "mailchimp-purge",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Automatically archive unsubscribed contacts from Mailchimp - and reduce your costs.",
   "main": "index.js",
   "scripts": {
